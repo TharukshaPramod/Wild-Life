@@ -1,0 +1,5 @@
+config.php
+bookdbconfig.php
+payment/db_conn.php
+reservations/dbConnection.php
+donation/connect.php
